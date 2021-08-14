@@ -3,10 +3,10 @@
  :small_orange_diamond: Current technology stack: C#, React Native, HTML, CSS, JavaScript, JQuery  
  :small_orange_diamond: Worked with databases: PostgreSQL, MySQL, MSSQL, Firebird.  
  :small_orange_diamond: Worked with the integration of information systems via RestAPI  
-  :small_orange_diamond: I have basic skills in working with the Unity game engine and the Blender 3D modeling program. 
+ :small_orange_diamond: I have basic skills in working with the Unity game engine and the Blender 3D modeling program. 
 
-📧Contact Email: ilia-samarin@bk.ru
-
+ :e-mail: Contact Email: ilia-samarin@bk.ru  
+ :memo: resume (rus): https://career.habr.com/prethink
 
 
 # [RU]
@@ -16,7 +16,8 @@
  :small_orange_diamond: Занимался интеграцией информационных систем через RestAPI  
  :small_orange_diamond: Владею базовыми навыками работы с игровым движком Unity и программой для 3D моделирования Blender
 
-📧Электронная почта для связи: ilia-samarin@bk.ru
+ :e-mail: Электронная почта для связи: ilia-samarin@bk.ru  
+ :memo: Резюме: https://career.habr.com/prethink
 
 <!--
 **prethink/prethink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
