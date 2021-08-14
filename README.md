@@ -3,6 +3,7 @@
  :small_orange_diamond: Current technology stack: C#, HTML, CSS, JavaScript, JQuery  
  :small_orange_diamond: Worked with databases: PostgreSQL, MySQL, MSSQL, Firebird.  
  :small_orange_diamond: Worked with the integration of information systems via RestAPI  
+  :small_orange_diamond: I have basic skills in working with the Unity game engine and the Blender 3D modeling program. 
 
 📧Contact Email: ilia-samarin@bk.ru
 
@@ -13,6 +14,7 @@
  :small_orange_diamond: Текущий стек технологий: C#, HTML, CSS, JavaScript, JQuery  
  :small_orange_diamond: Работал с базами данных: PostgreSQL, MySQL, MSSQL, Firebird.  
  :small_orange_diamond: Занимался интеграцией информационных систем через RestAPI  
+ :small_orange_diamond: Владею базовыми навыками работы с игровым движком Unity и программой для 3D моделирования Blender
 
 📧Электронная почта для связи: ilia-samarin@bk.ru
 
