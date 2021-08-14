@@ -1,13 +1,19 @@
 # [ENG]
+:raised_hand: Hi all!  
+ :small_orange_diamond: Current technology stack: C#, HTML, CSS, JavaScript, JQuery  
+ :small_orange_diamond: Worked with databases: PostgreSQL, MySQL, MSSQL, Firebird.  
+ :small_orange_diamond: Worked with the integration of information systems via RestAPI  
 
-Hi all!
 📧Contact Email: ilia-samarin@bk.ru
 
 
 
 # [RU]
+:raised_hand: Всем привет!  
+ :small_orange_diamond: Текущий стек технологий: C#, HTML, CSS, JavaScript, JQuery  
+ :small_orange_diamond: Работал с базами данных: PostgreSQL, MySQL, MSSQL, Firebird.  
+ :small_orange_diamond: Занимался интеграцией информационных систем через RestAPI  
 
-Всем привет!
 📧Электронная почта для связи: ilia-samarin@bk.ru
 
 <!--
