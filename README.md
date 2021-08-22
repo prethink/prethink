@@ -6,7 +6,7 @@
  :small_orange_diamond: I have basic skills in working with the Unity game engine and the Blender 3D modeling program. 
 
  :link: Contact Email: ilia-samarin@bk.ru  
- :link: telegram: @Samarin_ilya  
+ :link: Telegram: @Samarin_ilya  
  :memo: resume (rus): https://career.habr.com/prethink
 
 
@@ -18,7 +18,7 @@
  :small_orange_diamond: Владею базовыми навыками работы с игровым движком Unity и программой для 3D моделирования Blender
 
  :link: Электронная почта для связи: ilia-samarin@bk.ru   
- :link: telegram: @Samarin_ilya  
+ :link: Telegram: @Samarin_ilya  
  :memo: Резюме: https://career.habr.com/prethink
 
 <!--
