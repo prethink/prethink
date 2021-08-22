@@ -17,7 +17,7 @@
  :small_orange_diamond: Занимался интеграцией информационных систем через RestAPI  
  :small_orange_diamond: Владею базовыми навыками работы с игровым движком Unity и программой для 3D моделирования Blender
 
- :link: Электронная почта для связи: ilia-samarin@bk.ru 
+ :link: Электронная почта для связи: ilia-samarin@bk.ru   
  :link: telegram: @Samarin_ilya  
  :memo: Резюме: https://career.habr.com/prethink
 
