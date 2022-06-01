@@ -20,6 +20,7 @@
  :link: Электронная почта для связи: ilia-samarin@bk.ru   
  :link: Telegram: @IlyaSam94   
  :memo: Резюме: https://career.habr.com/prethink
+ 
    ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=prethink.visitor-badge)
 <!--
 **prethink/prethink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
