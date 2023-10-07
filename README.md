@@ -1,6 +1,6 @@
 # [ENG]
 :raised_hand:  Hello everyone!    
- :small_orange_diamond: Current technology stack: C#, HTML, CSS, JavaScript, JQuery     
+ :small_orange_diamond: Current technology stack: C#,React, HTML, CSS,TypeScript, JavaScript, JQuery    
  :small_orange_diamond: Worked with databases: PostgreSQL, MySQL, MSSQL, Firebird.     
  :small_orange_diamond: Was involved in integration of information systems through RestAPI   
  :small_orange_diamond: Have basic skills in working with the Unity game engine and the Blender 3D modeling program.   
@@ -12,7 +12,7 @@
 
 # [RU]
 :raised_hand: Всем привет!  
- :small_orange_diamond: Текущий стек технологий: C#, HTML, CSS, JavaScript, JQuery  
+ :small_orange_diamond: Текущий стек технологий: C#,React, HTML, CSS,TypeScript, JavaScript, JQuery  
  :small_orange_diamond: Работал с базами данных: PostgreSQL, MySQL, MSSQL, Firebird.  
  :small_orange_diamond: Занимался интеграцией информационных систем через RestAPI  
  :small_orange_diamond: Владею базовыми навыками работы с игровым движком Unity и программой для 3D моделирования Blender
@@ -20,8 +20,7 @@
  :link: Электронная почта для связи: ilia-samarin@bk.ru   
  :link: Telegram: @prethink   
  :memo: Резюме: https://career.habr.com/prethink
- 
-   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=prethink.visitor-badge)
+
 <!--
 **prethink/prethink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
