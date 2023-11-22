@@ -4,8 +4,6 @@
  :small_orange_diamond: Was involved in integration of information systems through RestAPI   
  :small_orange_diamond: Have basic skills in working with the Unity game engine and the Blender 3D modeling program.   
 
- :link: Contact Email: ilia-samarin@bk.ru  
- :link: Telegram: @prethink   
 
 
 
