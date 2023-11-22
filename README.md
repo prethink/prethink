@@ -1,4 +1,3 @@
-# [ENG]
 :raised_hand:  Hello everyone! In the IT field for about 8 years, I've had the opportunity to work as a systems administrator for 4 years before transitioning into development, which is what I continue to do to this day.    
  :small_orange_diamond: Current technology stack: C#,React, HTML, CSS,TypeScript, JavaScript, JQuery    
  :small_orange_diamond: Worked with databases: PostgreSQL, MySQL, MSSQL, Firebird.     
@@ -10,16 +9,7 @@
  :memo: resume (rus): https://career.habr.com/prethink
 
 
-# [RU]
-:raised_hand: Всем привет! В сфере it около 8 лет, успел проработать 4 года системным администратором, после чего ушел в разработку, чем и занимаюсь по сей день.    
- :small_orange_diamond: Текущий стек технологий: C#,React, HTML, CSS,TypeScript, JavaScript, JQuery  
- :small_orange_diamond: Работал с базами данных: PostgreSQL, MySQL, MSSQL, Firebird.  
- :small_orange_diamond: Занимался интеграцией информационных систем через RestAPI  
- :small_orange_diamond: Владею базовыми навыками работы с игровым движком Unity и программой для 3D моделирования Blender
 
- :link: Электронная почта для связи: ilia-samarin@bk.ru   
- :link: Telegram: @prethink   
- :memo: Резюме: https://career.habr.com/prethink
 
 <!--
 **prethink/prethink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
