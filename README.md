@@ -6,7 +6,7 @@
 
  :link: Contact Email: ilia-samarin@bk.ru  
  :link: Telegram: @prethink   
- :memo: resume (rus): https://career.habr.com/prethink
+
 
 
 
