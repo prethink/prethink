@@ -1,10 +1,3 @@
-:raised_hand:  Hello everyone! In the IT field for about 8 years, I've had the opportunity to work as a systems administrator for 4 years before transitioning into development, which is what I continue to do to this day.    
- :small_orange_diamond: Current technology stack: C#,React, HTML, CSS,TypeScript, JavaScript, JQuery    
- :small_orange_diamond: Worked with databases: PostgreSQL, MySQL, MSSQL, Firebird.     
- :small_orange_diamond: Was involved in integration of information systems through RestAPI   
- :small_orange_diamond: Have basic skills in working with the Unity game engine and the Blender 3D modeling program.   
-
-
 
 
 
