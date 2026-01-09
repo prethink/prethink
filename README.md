@@ -14,11 +14,6 @@ A flexible framework for building Telegram bots with reusable components and str
 
 ---
 
-## 💬 Let’s Connect
-
-📫 Telegram: [@prethink](https://t.me/prethink)  
-📫 Telegram dev chat: [@prethinkdev](https://t.me/prethinkdev)  
-✉️ Email: ilia-samarin@bk.ru
 
 # Current tech stack:    
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
