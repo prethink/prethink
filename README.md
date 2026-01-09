@@ -2,9 +2,23 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 I am a self-taught programmer. Currently, I am a .NET developer.
 
-### 📌 Featured Projects
-**PRUnitySDK** — Modular Unity SDK with DI, lifecycle hooks, SDK integrations (Zenject, YG2 Plugin).  
-**PRTelegramBot** — Flexible framework for building Telegram bots.  
+## 🚀 Featured Projects
+
+### 🔹 PRUnitySDK  
+A modular Unity SDK/framework with lifecycle hooks, DI support, platform integrations, and infrastructure utilities.  
+➡️ https://github.com/prethink/PRUnitySDK
+
+### 🔹 PRTelegramBot  
+A flexible framework for building Telegram bots with reusable components and structured pipeline.  
+➡️ https://github.com/prethink/PRTelegramBot
+
+---
+
+## 💬 Let’s Connect
+
+📫 Telegram: [@prethink](https://t.me/prethink)  
+📫 Telegram dev chat: [@prethinkdev](https://t.me/prethinkdev)  
+✉️ Email: ilia-samarin@bk.ru
 
 # Current tech stack:    
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
