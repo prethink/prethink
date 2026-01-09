@@ -2,6 +2,10 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 I am a self-taught programmer. Currently, I am a .NET developer.
 
+### 📌 Featured Projects
+**PRUnitySDK** — Modular Unity SDK with DI, lifecycle hooks, SDK integrations (Zenject, YG2 Plugin).  
+**PRTelegramBot** — Flexible framework for building Telegram bots.  
+
 # Current tech stack:    
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
