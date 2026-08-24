@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>Self-taught .NET developer</b> — I build reusable frameworks, not one-off scripts.<br/>
-  Telegram bots, Unity gameplay systems and the plumbing that makes both boring to write.
 </p>
 
 <p align="center">
