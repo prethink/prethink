@@ -103,15 +103,6 @@ A plugin that pipes a Counter-Strike 2 server into Telegram: server events reach
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prethink&show_icons=true&hide_border=true&theme=transparent&hide=issues" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prethink&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages"/>
-</p>
-
----
-
 ## 📫 Contacts
 
 <p align="center">
