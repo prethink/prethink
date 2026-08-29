@@ -27,9 +27,11 @@ Writing a Telegram bot usually means one giant `switch` over `update.Message.Tex
 **PRTelegramBot replaces that switch with attributes** — you mark a method, the framework finds it and routes the update to it.
 
 ```csharp
-[ReplyMenuHandler("start", "menu")]
-public static async Task Start(ITelegramBotClient bot, Update update)
-    => await Helpers.Message.Send(bot, update, "Main menu");
+[SlashHandler("/start")]
+public static async Task Start(IBotContext context)
+{
+    await MessageSender.Send(context, "Hello, World!");
+}
 ```
 
 - 🧭 **Attribute-based routing** — `SlashHandler`, `ReplyMenuHandler`, `InlineHandler`, parameterized commands
