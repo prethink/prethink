@@ -110,3 +110,6 @@ A plugin that pipes a Counter-Strike 2 server into Telegram: server events reach
   <a href="https://t.me/prethink"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="mailto:ilia-samarin@bk.ru"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
+
+---
+[![Profile views](https://komarev.com/ghpvc/?username=prethink&label=Profile+views&style=flat)](https://github.com/prethink)
