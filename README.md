@@ -18,7 +18,7 @@
 ## 🚀 Featured Projects
 
 ### 🤖 [PRTelegramBot](https://github.com/prethink/PRTelegramBot) — a framework for Telegram bots on .NET
-
+[Telegram's official Bot API library examples](https://core.telegram.org/bots/samples) — PRTelegramBot is listed here.    
 [![Stars](https://img.shields.io/github/stars/prethink/PRTelegramBot?style=flat-square&color=f5c518)](https://github.com/prethink/PRTelegramBot/stargazers)
 [![NuGet](https://img.shields.io/nuget/v/PRTelegramBot?style=flat-square&logo=nuget&color=004880)](https://www.nuget.org/packages/PRTelegramBot/)
 [![License](https://img.shields.io/github/license/prethink/PRTelegramBot?style=flat-square)](https://github.com/prethink/PRTelegramBot/blob/master/LICENSE)
